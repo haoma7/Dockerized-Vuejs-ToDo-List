@@ -1,0 +1,6 @@
+
+{
+    
+        "ApiBaseUrl":"replace this with your own firebase realtime database link. format:xxx.firebaseio.com"
+   
+}
