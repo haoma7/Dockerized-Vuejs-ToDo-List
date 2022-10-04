@@ -9,6 +9,7 @@ Replace the content of the **config.json** with the Firebase link.
 ### Step 3
 
 Change directory into the folder and run in the terminal:
-`
+
+```
 make run
-`
+```
